@@ -39,7 +39,8 @@ int i;
     self.array1 = [[NSMutableArray alloc]initWithObjects:@"Above",@"Below", nil];
 
     self.array2 = [[NSMutableArray alloc]initWithObjects:@"tes 1", nil];
-    NSLog(@"i have done changes here");
+    NSLog(@"THis is my new commit");
+    
     
     UIView *view;
     
