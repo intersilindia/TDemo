@@ -33,10 +33,13 @@ int i;
  
     // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
     // self.navigationItem.rightBarButtonItem = self.editButtonItem;
+    
+    
     self.sections = [[NSMutableArray alloc]initWithObjects:@"Pulse",@"Blood Pressure",@"Temp",@"Respirations", nil];
     self.array1 = [[NSMutableArray alloc]initWithObjects:@"Above",@"Below", nil];
 
     self.array2 = [[NSMutableArray alloc]initWithObjects:@"tes 1", nil];
+    NSLog(@"i have done changes here");
     
     UIView *view;
     

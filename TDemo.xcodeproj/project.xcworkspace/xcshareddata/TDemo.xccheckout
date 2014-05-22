@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>512C2112-20E8-447D-8AAE-F2432BBE84AF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>83657F6D-8543-4BB2-B0FC-043361EC360C</key>
+		<string>https://github.com/intersilindia/TDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>83657F6D-8543-4BB2-B0FC-043361EC360C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/intersilindia/TDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>83657F6D-8543-4BB2-B0FC-043361EC360C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>83657F6D-8543-4BB2-B0FC-043361EC360C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
