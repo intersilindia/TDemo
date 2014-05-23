@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		189F8C98192F276200DECA38 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 189F8C97192F276200DECA38 /* Test.m */; };
 		18CA798C18F52F4000DA288F /* vitalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18CA798B18F52F4000DA288F /* vitalViewController.m */; };
 		18FCD09118F3B9A600612DD5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18FCD09018F3B9A600612DD5 /* Foundation.framework */; };
 		18FCD09318F3B9A600612DD5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18FCD09218F3B9A600612DD5 /* CoreGraphics.framework */; };
@@ -34,6 +35,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		189F8C96192F276200DECA38 /* Test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
+		189F8C97192F276200DECA38 /* Test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 		18CA798A18F52F4000DA288F /* vitalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = vitalViewController.h; sourceTree = "<group>"; };
 		18CA798B18F52F4000DA288F /* vitalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = vitalViewController.m; sourceTree = "<group>"; };
 		18FCD08D18F3B9A600612DD5 /* TDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -113,6 +116,8 @@
 			isa = PBXGroup;
 			children = (
 				18FCD09F18F3B9A600612DD5 /* AppDelegate.h */,
+				189F8C96192F276200DECA38 /* Test.h */,
+				189F8C97192F276200DECA38 /* Test.m */,
 				18FCD0A018F3B9A600612DD5 /* AppDelegate.m */,
 				18FCD0A218F3B9A600612DD5 /* Main_iPhone.storyboard */,
 				18FCD0AB18F3B9A600612DD5 /* Images.xcassets */,
@@ -250,6 +255,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18FCD0A118F3B9A600612DD5 /* AppDelegate.m in Sources */,
+				189F8C98192F276200DECA38 /* Test.m in Sources */,
 				18FCD09D18F3B9A600612DD5 /* main.m in Sources */,
 				18CA798C18F52F4000DA288F /* vitalViewController.m in Sources */,
 			);
